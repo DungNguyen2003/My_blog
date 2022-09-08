@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+.app{
+    overflow: hidden;
+}
 html, body{
     font-family: Verdana,sans-serif;
     font-size: 15px;
