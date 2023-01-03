@@ -154,12 +154,28 @@ h1, h2, h3, h4, h5 {
 }
 
 .interactive-icon{
-    font-size: 14px;
+    font-size: 18px;
     display: none;
     transform: translateY(-6px);
     animation: flyUp linear 0.5s;
     
 
+}
+.interactive-icon-heart,
+.interactive-icon-like{
+    
+}
+.red{
+    color: red
+}
+.blue{
+    color: blue
+}
+.inline-block{
+    display: inline-block;
+}
+.none{
+    display: none;
 }
 .blog__interactive-number{
     font-weight: 500;
